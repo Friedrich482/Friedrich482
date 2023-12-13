@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Friedrich482
 - 👀 I’m interested in programmation, IA abd cybersecurity.
-- 🌱 I’m currently learning to use JavaScript and PHP 
+- 🌱 I’m currently learning JavaScript and PHP 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
