@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Friedrich482
 - 👀 I’m interested in programmation, IA abd cybersecurity.
 - 🌱 I’m currently learning JavaScript and PHP 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 💞️ I’m looking to collaborate on projects about JS and JS Frameworks
+- 📫 You can reach me of my address mail : friedricht109gmail.com
 
 <!---
 Friedrich482/Friedrich482 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
