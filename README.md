@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Friedrich482
+- 👋 Hi, I’m @Friedrich482.
 - 👀 I’m interested in programmation, IA abd cybersecurity.
-- 🌱 I’m currently learning JavaScript and PHP 
-- 💞️ I’m looking to collaborate on projects about JS and JS Frameworks
+- 🌱 I’m currently learning JavaScript and PHP.
+- 💞️ I’m looking to collaborate on projects about JS and JS Frameworks and eventually PHP.
 - 📫 You can reach me of my address mail : friedricht109@gmail.com
 
 <!---
