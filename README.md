@@ -2,12 +2,15 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'am+a+junior+developper;Welcome+on+my+github+profile)](https://git.io/typing-svg)
 
-<a href="https://wakatime.com/@018dd2b8-d009-4aba-b324-dc6939b9e42b"><img src="https://wakatime.com/badge/user/018dd2b8-d009-4aba-b324-dc6939b9e42b.svg" alt="Total time coded since Feb 22 2024" /></a><br>
+[![wakatime](https://wakatime.com/badge/user/018dd2b8-d009-4aba-b324-dc6939b9e42b.svg?style=for-the-badge)](https://wakatime.com/@018dd2b8-d009-4aba-b324-dc6939b9e42b)
+
 (Since February 2024)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Friedrich482&theme=dark)](https://git.io/streak-stats)
 
 ![Friedrich482 GitHub stats](https://github-readme-stats.vercel.app/api?username=Friedrich482&show_icons=true&theme=radical)
+
+![Profile-views](https://komarev.com/ghpvc/?username=Friedrich482&color=blue&style=for-the-badge)
 
 ## Langages & Tools
 
@@ -24,7 +27,6 @@
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-
 
 ![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
