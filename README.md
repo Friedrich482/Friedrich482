@@ -4,7 +4,7 @@
 
 [![wakatime](https://wakatime.com/badge/user/018dd2b8-d009-4aba-b324-dc6939b9e42b.svg?style=for-the-badge)](https://wakatime.com/@018dd2b8-d009-4aba-b324-dc6939b9e42b)
 
-(Since February 2024)
+( Since February 2024 )
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Friedrich482&theme=dark)](https://git.io/streak-stats)
 
