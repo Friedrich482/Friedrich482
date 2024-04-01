@@ -66,6 +66,5 @@
 
 ## Daily Dev Card
 
-<a href="https://app.daily.dev/friedrich"><img src="https://api.daily.dev/devcards/v2/eCYKGSsVlzKQY1G7NxkJc.png?type=default&r=7l7" width="356" alt="Friedrich WT's Dev Card"/></a>
-
+<a href="https://app.daily.dev/friedrich"><img src="https://api.daily.dev/devcards/v2/eCYKGSsVlzKQY1G7NxkJc.png?type=default&r=srn" width="356" alt="Friedrich WT's Dev Card"/></a>
 Thank you for your visit !
