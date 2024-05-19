@@ -1,6 +1,6 @@
 <h1 align="center">Hello, I'am Friedrich 482 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'am+a+junior+developper;Welcome+on+my+github+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'am+a+junior+developer;Welcome+on+my+github+profile)](https://git.io/typing-svg)
 
 [![wakatime](https://wakatime.com/badge/user/018dd2b8-d009-4aba-b324-dc6939b9e42b.svg?style=for-the-badge)](https://wakatime.com/@018dd2b8-d009-4aba-b324-dc6939b9e42b)
 
