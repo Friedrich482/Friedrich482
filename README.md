@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'am Friedrich 482 👋</h1
+<h1 align="center">Hello, I'am Friedrich 482 👋</h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'am+a+junior+developer;Welcome+on+my+github+profile)](https://git.io/typing-svg)
 
