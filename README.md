@@ -56,7 +56,7 @@
 
 - 👋 Hi, I’m @Friedrich482 (Friedrich WEKENON TOKPONTO).  
 
-- 👀 I’m interested in machine leaning, deep leaning and Web development
+- 👀 I’m interested in machine leaning, deep leaning and Web development.
 
 - 🔭 I’m currently learning React and Jest.  
 
