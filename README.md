@@ -1,16 +1,20 @@
 <h1 align="center">Hello, I'am Friedrich 482 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=I'am+a+junior+developer;Welcome+on+my+github+profile)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+on+my+github+profile)](https://git.io/typing-svg)
 
-[![wakatime](https://wakatime.com/badge/user/018dd2b8-d009-4aba-b324-dc6939b9e42b.svg?style=for-the-badge)](https://wakatime.com/@018dd2b8-d009-4aba-b324-dc6939b9e42b)
+<p align="center">
+  <img src="https://wakatime.com/badge/user/018dd2b8-d009-4aba-b324-dc6939b9e42b.svg?style=for-the-badge" alt="wakatime">
+</p>
 
-(Since February 2024)
+<p align="center">
+  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Friedrich482&theme=dark">
+  <img alt="Friedrich482 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Friedrich482&show_icons=true&theme=radical">
+</p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Friedrich482&theme=dark)](https://git.io/streak-stats)
 
-![Friedrich482 GitHub stats](https://github-readme-stats.vercel.app/api?username=Friedrich482&show_icons=true&theme=radical)
-
-![Profile-views](https://komarev.com/ghpvc/?username=Friedrich482&color=blue&style=for-the-badge)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Friedrich482&color=blue&style=for-the-badge">
+</p>
 
 ## Langages & Tools
 
@@ -52,19 +56,8 @@
 ![Github pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white)
 
 
-## About Me
-
-- 👋 Hi, I’m @Friedrich482 (Friedrich WEKENON TOKPONTO).  
-
-- 👀 I’m interested in machine leaning, deep leaning and Web development.
-
-- 🔭 I’m currently learning React and Jest.  
-
-- 🤝 I’m looking to collaborate on front-end projects especially with React
-  
-- 📫 You can reach me of my address mail 📧 : friedricht109@gmail.com
-
 ## Daily Dev Card
-
+<p align="center">
 <a href="https://app.daily.dev/friedrich"><img src="https://api.daily.dev/devcards/v2/eCYKGSsVlzKQY1G7NxkJc.png?type=default&r=srn" width="356" alt="Friedrich WT's Dev Card"/></a>
-Thank you for your visit !
+</p>
+<p align="center">Thank you for your visit !</p>
