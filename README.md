@@ -1,23 +1,7 @@
 <h1 align="center">Hello, I'am Friedrich 482 👋</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome+on+my+github+profile)](https://git.io/typing-svg)
-
 <p align="center">
   <img src="https://wakatime.com/badge/user/018dd2b8-d009-4aba-b324-dc6939b9e42b.svg?style=for-the-badge" alt="wakatime">
-</p>
-
-<p align="center">
-  <p align="center">
-  <img alt="GitHub Streak" src="https://streak-stats.demolab.com/?user=Friedrich482&theme=dark">
-  </p>
-  <p align="center">
-  <img alt="Friedrich482 GitHub stats" src="https://github-readme-stats.vercel.app/api?username=Friedrich482&show_icons=true&theme=radical">
-  </p>
-</p>
-
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Friedrich482&color=blue&style=for-the-badge">
 </p>
 
 # Tools
